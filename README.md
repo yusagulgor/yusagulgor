@@ -17,7 +17,9 @@ Ben 15 yaşında olan ve yazılıma merak salmış biri olarak yeni bilgiler edi
 <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg">
 <img src="https://github.com/github/explore/raw/main/topics/flask/flask.png" alt="flask" width="40" height="40"/>
 <img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/ai/ai.png" alt="AI" width="40" height="40"/>
 <img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
+<img src="https://github.com/github/explore/raw/main/topics/pytorch/pytorch.png" alt="PyTorch" width="40" height="40"/>
 <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Light.svg"></code>
 
