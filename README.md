@@ -16,7 +16,7 @@ Ben 15 yaşında olan ve yazılıma merak salmış biri olarak yeni bilgiler edi
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java"> 
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
 <img align="center" src="https://github.com/numpy/numpy/blob/main/branding/logo/primary/numpylogo.svg" width="50" height="40" alt="NumPy"> 
-<img align="center" src="https://github.com/opencv/opencv/blob/master/doc/opencv-logo2.png" width="40" height="40" alt="OpenCV"> 
+<img align="center" src="https://github.com/opencv/opencv/blob/master/doc/opencv-logo2.png" width="50" height="40" alt="OpenCV"> 
 <img src="https://github.com/github/explore/raw/main/topics/flask/flask.png" alt="Flask" width="40" height="40"/> 
 <img src="https://github.com/github/explore/raw/main/topics/django/django.png" alt="Django" width="40" height="40"/> 
 <img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="40" height="40"/> 
