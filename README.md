@@ -13,7 +13,7 @@ Ben 15 yaşında olan ve yazılıma merak salmış biri olarak yeni bilgiler edi
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code>
 <img src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/>
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/learnwithsumit/learnwithsumit.github.io/master/assets/img/icons/mongodb.png" alt="MongoDB Logo" width="40" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="MongoDB Logo" width="40" height="40" style="vertical-align:top; margin:4px">
 </a>
 <img height="40" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy">
 <img height="40" src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo2.png" alt="OpenCV">
