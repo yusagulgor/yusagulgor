@@ -12,7 +12,7 @@ Ben 15 yaşında olan ve yazılıma merak salmış biri olarak yeni bilgiler edi
 <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bootstrap.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg"></code>
 <img src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/>
-<img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40"/>
+<img src="https://github.com/github/explore/raw/main/topics/mongodb/mongodb.png" alt="MongoDB Logo" width="40" height="40"/>
 <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Light.svg">
 <img height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg">
 <img align="center" src='https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg' width="90" height="90">
