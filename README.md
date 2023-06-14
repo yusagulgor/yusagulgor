@@ -15,6 +15,7 @@ Ben 15 yaşında olan ve yazılıma merak salmış biri olarak yeni bilgiler edi
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="MongoDB Logo" width="60" height="50" style="vertical-align:top; margin:4px">
 </a>
+<img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
 <img height="40" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy">
 <img height="40" src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo2.png" alt="OpenCV">
 <img src="https://github.com/github/explore/raw/main/topics/flask/flask.png" alt="Flask" width="40" height="40"/>
