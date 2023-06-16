@@ -16,7 +16,6 @@ Ben 15 yaşında olan ve yazılıma merak salmış biri olarak yeni bilgiler edi
   <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="MongoDB Logo" width="60" height="50" style="vertical-align:top; margin:4px">
 </a>
 <img src="https://github.com/github/explore/raw/main/topics/java/java.png" alt="java" width="50" height="50"/>
-<img src="https://github.com/github/explore/raw/main/topics/wpilib/wpilib.png" alt="wpilib" width="50" height="50"/>
 <img src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="python" width="50" height="50"/>
 <img height="40" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy">
 <img height="40" src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo2.png" alt="OpenCV">
