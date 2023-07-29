@@ -25,6 +25,6 @@ Ben 15 yaşında olan ve yazılıma merak salmış biri olarak yeni bilgiler edi
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"></code>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusagulgor&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusagulgor&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
