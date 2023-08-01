@@ -8,7 +8,6 @@ Ben 15 yaşında olan ve yazılıma merak salmış biri olarak yeni bilgiler edi
 # 💻 Tech Stac
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code>
 <img src="https://github.com/github/explore/raw/main/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/>
 <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" alt="MongoDB Logo" width="60" height="50" style="vertical-align:top; margin:4px">
