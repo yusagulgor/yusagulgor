@@ -25,4 +25,4 @@ Ben 15 yaşında olan ve yazılıma merak salmış biri olarak yeni bilgiler edi
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusagulgor&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusagulgor&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
