@@ -7,8 +7,7 @@ Ben 15 yaşında olan ve yazılıma merak salmış biri olarak yeni bilgiler edi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yüşa-mervan-gülgör-9685a323b/)
 # 💻 Tech Stac
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub"></code>
+[![My Skills](https://skillicons.dev/icons?i=python,java,flask,javascript,nodejs,express,mongodb,react,ts,angular,&perline=3)](https://skillicons.dev)
 
 
 
