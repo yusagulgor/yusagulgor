@@ -1,6 +1,5 @@
 # 💫 About Me:
-Ben 15 yaşında olan ve yazılıma merak salmış biri olarak yeni bilgiler edinmek istiyorum. Kendimi yazılım alanında geliştiriyorum ve yazılımda şu aralar machine learning ve deep learning alanlarında kendimi geliştirmeye çalışıyorum, yolun başında olsam da başaracağıma inanıyorum .Kendime yeni yazılımcı arkadaşlar edinmek ve geniş bir Network sahibi olmak istiyorum.
-
+Ben 15 yaşında olan ve yazılıma merak salmış biriyim.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yusa_gulgor)
