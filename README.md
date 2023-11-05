@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ben 15 yaşında olan ve yazılıma merak salmış biriyim.
+yazılım
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yusa_gulgor)
