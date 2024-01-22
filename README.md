@@ -3,7 +3,7 @@ yazılım
 
 # 💻 Tech Stac
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,flask,nodejs,express&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=10)](https://skillicons.dev)
 
 
 
