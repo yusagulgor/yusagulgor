@@ -1,5 +1,5 @@
 # 💫 About Me:
-yazılım
+Software and 👍,👌,:),:D
 
 # 💻 Tech Stac
 
