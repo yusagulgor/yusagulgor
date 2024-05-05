@@ -1,6 +1,5 @@
 # 💫 About Me:
 Software and 👍  👌  :)  :D
-C++ is god 
 
 # 💻 Tech Stac
 
