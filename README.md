@@ -3,7 +3,7 @@ Software and 👍  👌  :)  :D
 
 # 💻 Tech Stac
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,typescript&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,rust&perline=10)](https://skillicons.dev)
 
 
 
